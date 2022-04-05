@@ -22,6 +22,7 @@
 }
 .book-review{
     text-align:center;
+    margin-bottom: 50px;
 }
 .review-list {
     display: flex;

@@ -32,7 +32,7 @@ const Home = () => {
 
                 <h1>Book Review</h1>
                 {
-                     reviews.map(review =><div className='review-list'>
+                     reviews.slice(0,3).map(review =><div className='review-list'>
                      <div className='profile'><img src={review.picture} alt="" />
                      
                      </div>
