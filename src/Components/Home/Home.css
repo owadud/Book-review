@@ -9,6 +9,7 @@
     display:flex;
     align-items:center;
     margin-right: 20px;
+    justify-content:center;
 }
 .site-description p{
     font-size: 18px;
