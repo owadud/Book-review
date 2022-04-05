@@ -27,5 +27,18 @@
     display: flex;
     justify-content:center;
    
-   
+}
+.book-review button {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    background-color:#fff;
+    border-radius: 5px;
+}
+.book-review button:hover{
+    background-color:#007df1;
+}
+.book-review h1{
+    color: #007df1;
 }
