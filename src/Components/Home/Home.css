@@ -20,3 +20,12 @@
     font-size:40px;
     color: rgb(32, 84, 133);
 }
+.book-review{
+    text-align:center;
+}
+.review-list {
+    display: flex;
+    justify-content:center;
+   
+   
+}
